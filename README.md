@@ -4,55 +4,54 @@
 
 This project focuses on analyzing grocery sales data for Blinkit, an online grocery delivery platform.
 An interactive Tableau dashboard was created to gain insights into sales performance, product categories, outlet types, and customer purchasing patterns across different locations.
-
 The goal of this project is to help stakeholders understand what drives sales, which outlets perform best, and how product attributes impact revenue.
 
-🗂️ Dataset Information
+# 🗂️ Dataset Information
 
-The dataset contains grocery sales data with the following key attributes:
+*The dataset contains grocery sales data with the following key attributes:
 
-Item Details: Item Identifier, Item Type, Item Weight, Fat Content
+*Item Details: Item Identifier, Item Type, Item Weight, Fat Content
 
-Sales Metrics: Item MRP, Item Outlet Sales, Item Visibility
+*Sales Metrics: Item MRP, Item Outlet Sales, Item Visibility
 
-Outlet Information:
+*Outlet Information:
 
-Outlet Type
+*Outlet Type
 
-Outlet Size
+*Outlet Size
 
-Outlet Location Type (Tier 1, Tier 2, Tier 3)
+*Outlet Location Type (Tier 1, Tier 2, Tier 3)
 
-Outlet Establishment Year
+*Outlet Establishment Year
 
-📁 File used:
+ # 📁 File used:
 Tableau BlinkIT Grocery Project U16955293080.xlsx
 
-📈 Dashboard Features
+# 📈 Dashboard Features
 
 The Tableau dashboard provides insights through:
 
-💰 Total Sales Analysis
+*💰 Total Sales Analysis
 
-🏪 Sales by Outlet Type & Outlet Size
+*🏪 Sales by Outlet Type & Outlet Size
 
-🥗 Item Type & Fat Content Contribution
+*🥗 Item Type & Fat Content Contribution
 
-🌍 Sales Distribution by Location Tier
+*🌍 Sales Distribution by Location Tier
 
-📅 Impact of Outlet Establishment Year on Sales
+*📅 Impact of Outlet Establishment Year on Sales
 
-👀 Item Visibility vs Sales Performance
+*👀 Item Visibility vs Sales Performance
 
-Interactive filters allow users to drill down by:
+*Interactive filters allow users to drill down by:
 
-Outlet Type
+*Outlet Type
 
-Item Type
+*Item Type
 
-Location Tier
+*Location Tier
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Tableau – Data visualization & dashboard creation
 
@@ -60,45 +59,45 @@ Microsoft Excel – Data source
 
 GitHub – Version control & project hosting
 
-📊 Key Insights
+# 📊 Key Insights
 
-Supermarket Type outlets contribute the highest sales volume
+*Supermarket Type outlets contribute the highest sales volume
 
-Tier 3 locations show strong sales performance
+*Tier 3 locations show strong sales performance
 
-Certain product categories like Fruits & Vegetables and Dairy generate higher revenue
+*Certain product categories like Fruits & Vegetables and Dairy generate higher revenue
 
-Item visibility does not always correlate positively with sales
+*Item visibility does not always correlate positively with sales
 
-Older outlets tend to have more stable sales patterns
+*Older outlets tend to have more stable sales patterns
 
-📂 Project Files
+# 📂 Project Files
 
-Blinkit Grocery Project.twb – Tableau dashboard file
+*Blinkit Grocery Project.twb – Tableau dashboard file
 
-Tableau BlinkIT Grocery Project U16955293080.xlsx – Dataset
+*Tableau BlinkIT Grocery Project U16955293080.xlsx – Dataset
 
-README.md – Project documentation
+*README.md – Project documentation
 
-🚀 How to Use
+# 🚀 How to Use
 
-Download the .twb Tableau file
+*Download the .twb Tableau file
 
-Open it using Tableau Desktop
+*Open it using Tableau Desktop
 
-Connect to the provided Excel dataset if required
+*Connect to the provided Excel dataset if required
 
-Explore the interactive dashboard using filters and charts
+*Explore the interactive dashboard using filters and charts
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
-Add time-based sales trend analysis
+*Add time-based sales trend analysis
 
-Include customer segmentation metrics
+*Include customer segmentation metrics
 
-Deploy dashboard on Tableau Public
+*Deploy dashboard on Tableau Public
 
 👤 Author
 
-[Your Name]
+Tannu Jha 
 Data Analytics Enthusiast
