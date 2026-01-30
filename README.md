@@ -95,7 +95,7 @@ The Tableau dashboard provides insights through:
 ---
 
 ## 👤 Author
-**[Tannu Jha]**  
-Data Analytics Enthusiast
+**Tannu Jha**  
+👨‍🎓Computer Science & Engineering 
 
 
